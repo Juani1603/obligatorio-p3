@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\NegocioWebApp\\NegocioWebApp.csproj": {}
+    "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\NegocioWebApp\\NegocioWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\AccesoDatos\\AccesoDatos.csproj": {
+    "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\AccesoDatos\\AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\AccesoDatos\\AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\AccesoDatos\\AccesoDatos.csproj",
         "projectName": "AccesoDatos",
-        "projectPath": "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\AccesoDatos\\AccesoDatos.csproj",
+        "projectPath": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\AccesoDatos\\AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\AccesoDatos\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj": {
+    "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj",
         "projectName": "Negocio.LogicaAplicacion",
-        "projectPath": "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj",
+        "projectPath": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\Negocio.LogicaAplicacion\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\NegocioWebApp\\NegocioWebApp.csproj": {
+    "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\NegocioWebApp\\NegocioWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\NegocioWebApp\\NegocioWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\NegocioWebApp\\NegocioWebApp.csproj",
         "projectName": "NegocioWebApp",
-        "projectPath": "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\NegocioWebApp\\NegocioWebApp.csproj",
+        "projectPath": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\NegocioWebApp\\NegocioWebApp.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\NegocioWebApp\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\NegocioWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -162,14 +162,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\AccesoDatos\\AccesoDatos.csproj": {
-                "projectPath": "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\AccesoDatos\\AccesoDatos.csproj"
+              "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\AccesoDatos\\AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\AccesoDatos\\AccesoDatos.csproj"
               },
-              "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj": {
-                "projectPath": "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj"
+              "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj": {
+                "projectPath": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj"
               },
-              "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\Negocio\\Negocio.csproj": {
-                "projectPath": "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\Negocio\\Negocio.csproj"
+              "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio\\Negocio.csproj": {
+                "projectPath": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio\\Negocio.csproj"
               }
             }
           }
@@ -212,14 +212,14 @@
         }
       }
     },
-    "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\Negocio\\Negocio.csproj": {
+    "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio\\Negocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\Negocio\\Negocio.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio\\Negocio.csproj",
         "projectName": "Negocio",
-        "projectPath": "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\Negocio\\Negocio.csproj",
+        "projectPath": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio\\Negocio.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Desktop\\mvc\\Negocio\\Negocio\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
