@@ -1,4 +1,4 @@
-﻿using Negocio.Exceptions
+﻿using Negocio.Exceptions;
 namespace Negocio.ValueObjects
 {
     public class NombreCompleto

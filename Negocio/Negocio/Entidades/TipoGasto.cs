@@ -1,8 +1,10 @@
-﻿using Negocio.Exceptions;
+﻿using Microsoft.EntityFrameworkCore;
+using Negocio.Exceptions;
 namespace Negocio.Entidades
 {
     public class TipoGasto
     {
+        public int Id { get; set; }
         public string Nombre { get; set; }
         public string Descripcion { get; set; }
         public TipoGasto() { }

@@ -1,3 +1,8 @@
+using Negocio.LogicaAplicacion;
+using Negocio.InterfacesRepositorio;
+using Negocio.LogicaAplicacion.InterfacesDeCasosDeUso.TipoGasto;
+using AccesoDatos.EntityFramework.Repositorios;
+
 namespace NegocioWebApp
 {
     public class Program
@@ -8,7 +13,7 @@ namespace NegocioWebApp
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-
+            builder.Services.AddScoped<ITipoGastoRepositorio, RepositorioTipoGastoEF>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -28,7 +33,7 @@ namespace NegocioWebApp
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=TipoGasto}/{action=Index}/{id?}");
 
             app.Run();
         }

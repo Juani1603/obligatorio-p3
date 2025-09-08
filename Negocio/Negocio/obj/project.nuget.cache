@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+GveektS/8U=",
+  "dgSpecHash": "iPagRt2BJ6Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio\\Negocio.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\alumnoFI\\Desktop\\obligatorio\\obligatorio-p3\\Negocio\\Negocio\\Negocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alumnoFI\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.19\\microsoft.entityframeworkcore.abstractions.8.0.19.nupkg.sha512"
+  ],
   "logs": []
 }

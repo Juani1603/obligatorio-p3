@@ -1,0 +1,16 @@
+C:\Users\alumnoFI\Desktop\obligatorio\obligatorio-p3\Negocio\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\alumnoFI\Desktop\obligatorio\obligatorio-p3\Negocio\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\alumnoFI\Desktop\obligatorio\obligatorio-p3\Negocio\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\alumnoFI\Desktop\obligatorio\obligatorio-p3\Negocio\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Desktop\obligatorio\obligatorio-p3\Negocio\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Desktop\obligatorio\obligatorio-p3\Negocio\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\alumnoFI\Desktop\obligatorio\obligatorio-p3\Negocio\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Desktop\obligatorio\obligatorio-p3\Negocio\AccesoDatos\obj\Debug\net8.0\AccesoDatos.sourcelink.json
+C:\Users\alumnoFI\Desktop\obligatorio\obligatorio-p3\Negocio\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\alumnoFI\Desktop\obligatorio\obligatorio-p3\Negocio\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\alumnoFI\Desktop\obligatorio\obligatorio-p3\Negocio\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\alumnoFI\Desktop\obligatorio\obligatorio-p3\Negocio\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
+C:\Users\alumnoFI\Desktop\obligatorio\obligatorio-p3\Negocio\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Desktop\obligatorio\obligatorio-p3\Negocio\AccesoDatos\bin\Debug\net8.0\Negocio.dll
+C:\Users\alumnoFI\Desktop\obligatorio\obligatorio-p3\Negocio\AccesoDatos\bin\Debug\net8.0\Negocio.pdb
+C:\Users\alumnoFI\Desktop\obligatorio\obligatorio-p3\Negocio\AccesoDatos\obj\Debug\net8.0\AccesoDa.B2719C34.Up2Date

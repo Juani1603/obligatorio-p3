@@ -7,10 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="CasosDeUso\" />
-    <Folder Include="DTOs\" />
-    <Folder Include="InterfacesDeCasosDeUso\" />
-    <Folder Include="Mappers\" />
+    <ProjectReference Include="..\AccesoDatos\AccesoDatos.csproj" />
+    <ProjectReference Include="..\Negocio\Negocio.csproj" />
   </ItemGroup>
 
 </Project>

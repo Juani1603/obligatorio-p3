@@ -1,14 +1,26 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Negocio.LogicaAplicacion.DTOs;
+using Negocio.LogicaAplicacion.InterfacesDeCasosDeUso.TipoGasto;
 
 namespace NegocioWebApp.Controllers
 {
     public class TipoGastoController : Controller
     {
+        private IAltaTipoGasto _altaTipoGasto;
+        private IObtenerTipoGastos _obtenerTipoGastos;
+
+        public TipoGastoController(IAltaTipoGasto altaTipoGasto, IObtenerTipoGastos obtenerTipoGastos)
+        {
+            _altaTipoGasto = altaTipoGasto;
+            _obtenerTipoGastos = obtenerTipoGastos;
+        }
+
+
         // GET: TipoGastoController
         public ActionResult Index()
         {
-            return View();
+            return View(_obtenerTipoGastos.ObtenerTipoGastos());
         }
 
         // GET: TipoGastoController/Details/5
@@ -26,10 +38,11 @@ namespace NegocioWebApp.Controllers
         // POST: TipoGastoController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult Create(TipoGastoDTO tipoGasto)
         {
             try
             {
+                _altaTipoGasto.AgregarTipoGasto(tipoGasto);
                 return RedirectToAction(nameof(Index));
             }
             catch
