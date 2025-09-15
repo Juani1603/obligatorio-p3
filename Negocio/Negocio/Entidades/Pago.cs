@@ -10,6 +10,7 @@ namespace Negocio.Entidades
 {
     abstract public class Pago
     {
+        public int Id { get; set; }
         public MetodoPago MetodoPago { get; set; }
         public TipoGasto TipoGasto { get; set; }
         public Usuario Usuario { get; set; }

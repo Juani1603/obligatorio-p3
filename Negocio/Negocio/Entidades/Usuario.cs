@@ -11,6 +11,7 @@ namespace Negocio.Entidades
 {
     public class Usuario
     {
+        public int Id { get; set; }
         public NombreCompleto NombreCompleto { get; set; }
         public string Contrasena { get; set; }
         public Email Email { get; set; }

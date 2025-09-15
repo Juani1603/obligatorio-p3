@@ -4,6 +4,7 @@ namespace Negocio.Entidades
 {
     public class Unico : Pago
     {
+        public int Id { get; set; }
         public DateTime FechaPago { get; set; }
         public int NroRecibo { get; set; }
         public Unico() : base() { }
