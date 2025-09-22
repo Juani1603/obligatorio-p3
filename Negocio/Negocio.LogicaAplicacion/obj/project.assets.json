@@ -2754,23 +2754,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alumnoFI\\.nuget\\packages\\": {},
+    "C:\\Users\\Administrador\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alumnoFI\\Desktop\\obligatorio\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj",
       "projectName": "Negocio.LogicaAplicacion",
-      "projectPath": "C:\\Users\\alumnoFI\\Desktop\\obligatorio\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj",
-      "packagesPath": "C:\\Users\\alumnoFI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alumnoFI\\Desktop\\obligatorio\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\obj\\",
+      "projectPath": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj",
+      "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\alumnoFI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2785,11 +2785,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\alumnoFI\\Desktop\\obligatorio\\obligatorio-p3\\Negocio\\AccesoDatos\\AccesoDatos.csproj": {
-              "projectPath": "C:\\Users\\alumnoFI\\Desktop\\obligatorio\\obligatorio-p3\\Negocio\\AccesoDatos\\AccesoDatos.csproj"
+            "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\AccesoDatos\\AccesoDatos.csproj": {
+              "projectPath": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\AccesoDatos\\AccesoDatos.csproj"
             },
-            "C:\\Users\\alumnoFI\\Desktop\\obligatorio\\obligatorio-p3\\Negocio\\Negocio\\Negocio.csproj": {
-              "projectPath": "C:\\Users\\alumnoFI\\Desktop\\obligatorio\\obligatorio-p3\\Negocio\\Negocio\\Negocio.csproj"
+            "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio\\Negocio.csproj": {
+              "projectPath": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio\\Negocio.csproj"
             }
           }
         }
@@ -2804,7 +2804,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -2825,7 +2825,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

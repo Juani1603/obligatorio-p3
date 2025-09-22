@@ -9,5 +9,6 @@ namespace Negocio.InterfacesRepositorio
 {
     public interface IUsuarioRepositorio : IRepositorio<Usuario>
     {
+        public Usuario Login(string email, string contrasena);
     }
 }

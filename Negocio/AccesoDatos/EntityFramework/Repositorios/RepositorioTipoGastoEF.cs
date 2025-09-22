@@ -1,5 +1,7 @@
 ﻿using Negocio.Entidades;
+using Negocio.Exceptions;
 using Negocio.InterfacesRepositorio;
+using Negocio.ValueObjects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,7 +16,7 @@ namespace AccesoDatos.EntityFramework.Repositorios
 
         public RepositorioTipoGastoEF(NegocioContext context)
         {
-            _context = new NegocioContext();
+            _context = context;
         }
 
         public void Add(TipoGasto obj)
@@ -31,17 +33,30 @@ namespace AccesoDatos.EntityFramework.Repositorios
 
         public TipoGasto FindById(int id)
         {
-            throw new NotImplementedException();
+            TipoGasto tipoGasto = _context.TipoGastos.Where(
+                tp => tp.Id == id
+            ).FirstOrDefault();
+
+            if (tipoGasto == null)
+            {
+                throw new TipoGastoException("No se encontró ese Tipo de gasto por Id");
+            }
+
+            return tipoGasto;
         }
+
 
         public void Remove(int id)
         {
-            throw new NotImplementedException();
+            TipoGasto tipoGasto = new TipoGasto { Id = id };
+            _context.TipoGastos.Remove(tipoGasto);
+            _context.SaveChanges();
         }
 
         public void Update(TipoGasto obj)
         {
-            throw new NotImplementedException();
+            _context.TipoGastos.Update(obj);
+            _context.SaveChanges();
         }
     }
 }

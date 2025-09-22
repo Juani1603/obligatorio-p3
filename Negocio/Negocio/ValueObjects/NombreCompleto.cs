@@ -1,6 +1,8 @@
-﻿using Negocio.Exceptions;
+﻿using Microsoft.EntityFrameworkCore;
+using Negocio.Exceptions;
 namespace Negocio.ValueObjects
 {
+    [Owned]
     public class NombreCompleto
     {
         public string Nombre { get; set; }

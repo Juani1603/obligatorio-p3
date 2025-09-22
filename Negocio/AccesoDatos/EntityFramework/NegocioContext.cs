@@ -11,14 +11,9 @@ namespace AccesoDatos.EntityFramework
     public class NegocioContext : DbContext
     {
         public DbSet<TipoGasto> TipoGastos { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer(
-                @"SERVER = (localdb)\MsSqlLocalDb;" +
-                "DATABASE = Negocio;" +
-                "Integrated Security = true;"
-                );
-        }
+
+        public NegocioContext(DbContextOptions options) : base(options) { }
     }
 }

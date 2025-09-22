@@ -11,3 +11,16 @@ C:\Users\alumnoFI\Desktop\obligatorio\obligatorio-p3\Negocio\Negocio\obj\Debug\n
 C:\Users\alumnoFI\Desktop\obligatorio\obligatorio-p3\Negocio\Negocio\obj\Debug\net8.0\Negocio.pdb
 C:\Users\alumnoFI\Desktop\obligatorio\obligatorio-p3\Negocio\Negocio\obj\Debug\net8.0\ref\Negocio.dll
 C:\Users\alumnoFI\Desktop\obligatorio\obligatorio-p3\Negocio\Negocio\obj\Debug\net8.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\obligatorioP3\Negocio\Negocio\bin\Debug\net8.0\Negocio.deps.json
+C:\Users\Administrador\Desktop\obligatorioP3\Negocio\Negocio\bin\Debug\net8.0\Negocio.dll
+C:\Users\Administrador\Desktop\obligatorioP3\Negocio\Negocio\bin\Debug\net8.0\Negocio.pdb
+C:\Users\Administrador\Desktop\obligatorioP3\Negocio\Negocio\obj\Debug\net8.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\obligatorioP3\Negocio\Negocio\obj\Debug\net8.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\obligatorioP3\Negocio\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\obligatorioP3\Negocio\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\obligatorioP3\Negocio\Negocio\obj\Debug\net8.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\obligatorioP3\Negocio\Negocio\obj\Debug\net8.0\Negocio.sourcelink.json
+C:\Users\Administrador\Desktop\obligatorioP3\Negocio\Negocio\obj\Debug\net8.0\Negocio.dll
+C:\Users\Administrador\Desktop\obligatorioP3\Negocio\Negocio\obj\Debug\net8.0\refint\Negocio.dll
+C:\Users\Administrador\Desktop\obligatorioP3\Negocio\Negocio\obj\Debug\net8.0\Negocio.pdb
+C:\Users\Administrador\Desktop\obligatorioP3\Negocio\Negocio\obj\Debug\net8.0\ref\Negocio.dll

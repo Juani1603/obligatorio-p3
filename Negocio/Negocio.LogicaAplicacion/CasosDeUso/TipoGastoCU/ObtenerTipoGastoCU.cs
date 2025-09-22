@@ -22,14 +22,11 @@ namespace Negocio.LogicaAplicacion.CasosDeUso.TipoGastoCU
 
         public IEnumerable<TipoGastoDTO> ObtenerTipoGastos()
         {
-            List<TipoGastoDTO> tipoGastos = new List<TipoGastoDTO>();
-
-            foreach(TipoGasto tp in _repositorio.FindAll())
-            {
-                tipoGastos.Add(TipoGastoMapper.ToDTO(tp));
-            }
-   
-            return tipoGastos;
+            IEnumerable<TipoGasto> retorno =
+                _repositorio.FindAll();
+            return retorno.Select(
+                tp => TipoGastoMapper.ToDTO(tp)
+            );
         }
     }
 }

@@ -1,10 +1,12 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Negocio.LogicaAplicacion.InterfacesDeCasosDeUso.Usuario;
 
 namespace NegocioWebApp.Controllers
 {
     public class UsuarioController : Controller
     {
+       
         // GET: UsuarioController
         public ActionResult Index()
         {
