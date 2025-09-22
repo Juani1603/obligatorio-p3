@@ -26,11 +26,11 @@ namespace NegocioWebApp.Controllers
         }
 
         [HttpPost]
-        public IActionResult Login(string email, string password)
+        public IActionResult Login(string email, string contrasena)
         {
             try
             {
-                UsuarioDTO logueado = _loginCU.Login(email, password);
+                UsuarioDTO logueado = _loginCU.Login(email, contrasena);
                 HttpContext.Session.SetString("usuario", logueado.Nombre);
                 HttpContext.Session.SetInt32("usuarioId", logueado.Id);
                 return RedirectToAction("Index");

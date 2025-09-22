@@ -15,23 +15,23 @@ namespace Negocio.Entidades
         public NombreCompleto NombreCompleto { get; set; }
         public string Contrasena { get; set; }
         public Email Email { get; set; }
-        public Equipo Equipo { get; set; }
+        public int EquipoId { get; set; }
         public Rol Rol { get; set; }
 
         public Usuario() { }
-        public Usuario(NombreCompleto nombreCompleto, string contrasena, Email email, Equipo equipo, Rol rol)
+        public Usuario(NombreCompleto nombreCompleto, string contrasena, Email email, int equipoId, Rol rol)
         {
             this.NombreCompleto = nombreCompleto;
             this.Contrasena = contrasena;
             this.Email = email;
-            this.Equipo = equipo;
+            this.EquipoId = equipoId;
             this.Rol = rol;
         }
 
         public void Validar()
         {
             if (this.NombreCompleto == null || string.IsNullOrEmpty(this.Contrasena) ||
-                this.Email == null || this.Equipo == null)
+                this.Email == null || this.EquipoId < 0)
             {
                 throw new UsuarioException("El usuario debe tener nombre, apellido, contraseña, email y un equipo.");
             }

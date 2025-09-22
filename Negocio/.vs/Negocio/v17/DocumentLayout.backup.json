@@ -1,82 +1,108 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\",
+  "WorkspaceRootPath": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD954727-32C3-43E0-9EAF-487E1D9FE778}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\administrador\\desktop\\obligatoriop3\\negocio\\accesodatos\\entityframework\\negociocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD954727-32C3-43E0-9EAF-487E1D9FE778}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\entityframework\\negociocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negociowebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|solutionrelative:negociowebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\AccesoDatos\\Migrations\\20250922023005_InitDBUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccesoDatos\\Migrations\\20250922023005_InitDBUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negociowebapp\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|solutionrelative:negociowebapp\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|c:\\users\\administrador\\desktop\\obligatoriop3\\negocio\\negociowebapp\\views\\tipogasto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|solutionrelative:negociowebapp\\views\\tipogasto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negociowebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|solutionrelative:negociowebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|c:\\users\\administrador\\desktop\\obligatoriop3\\negocio\\negociowebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|solutionrelative:negociowebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|c:\\users\\administrador\\desktop\\obligatoriop3\\negocio\\negociowebapp\\controllers\\tipogastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|solutionrelative:negociowebapp\\controllers\\tipogastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD954727-32C3-43E0-9EAF-487E1D9FE778}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\administrador\\desktop\\obligatoriop3\\negocio\\accesodatos\\entityframework\\repositorios\\repositoriotipogastoef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD954727-32C3-43E0-9EAF-487E1D9FE778}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\entityframework\\repositorios\\repositoriotipogastoef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|c:\\users\\administrador\\desktop\\obligatoriop3\\negocio\\negocio.logicaaplicacion\\casosdeuso\\tipogastocu\\obtenertipogastoporidcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|solutionrelative:negocio.logicaaplicacion\\casosdeuso\\tipogastocu\\obtenertipogastoporidcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|c:\\users\\administrador\\desktop\\obligatoriop3\\negocio\\negocio.logicaaplicacion\\interfacesdecasosdeuso\\tipogasto\\iobtenertipogastoporid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|solutionrelative:negocio.logicaaplicacion\\interfacesdecasosdeuso\\tipogasto\\iobtenertipogastoporid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|c:\\users\\administrador\\desktop\\obligatoriop3\\negocio\\negocio.logicaaplicacion\\interfacesdecasosdeuso\\tipogasto\\ieditartipogasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|solutionrelative:negocio.logicaaplicacion\\interfacesdecasosdeuso\\tipogasto\\ieditartipogasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|c:\\users\\administrador\\desktop\\obligatoriop3\\negocio\\negocio.logicaaplicacion\\interfacesdecasosdeuso\\tipogasto\\iborrartipogasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|solutionrelative:negocio.logicaaplicacion\\interfacesdecasosdeuso\\tipogasto\\iborrartipogasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|c:\\users\\administrador\\desktop\\obligatoriop3\\negocio\\negociowebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|solutionrelative:negociowebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|c:\\users\\administrador\\desktop\\obligatoriop3\\negocio\\negocio.logicaaplicacion\\casosdeuso\\tipogastocu\\obtenertipogastocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|solutionrelative:negocio.logicaaplicacion\\casosdeuso\\tipogastocu\\obtenertipogastocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|c:\\users\\administrador\\desktop\\obligatoriop3\\negocio\\negocio.logicaaplicacion\\casosdeuso\\tipogastocu\\editartipogastocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|solutionrelative:negocio.logicaaplicacion\\casosdeuso\\tipogastocu\\editartipogastocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|c:\\users\\administrador\\desktop\\obligatoriop3\\negocio\\negocio.logicaaplicacion\\casosdeuso\\tipogastocu\\borrartipogastocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|solutionrelative:negocio.logicaaplicacion\\casosdeuso\\tipogastocu\\borrartipogastocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|c:\\users\\administrador\\desktop\\obligatoriop3\\negocio\\negociowebapp\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|solutionrelative:negociowebapp\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|c:\\users\\administrador\\desktop\\obligatoriop3\\negocio\\negociowebapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negociowebapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|solutionrelative:negociowebapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|c:\\users\\administrador\\desktop\\obligatoriop3\\negocio\\negociowebapp\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|solutionrelative:negociowebapp\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negociowebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|solutionrelative:negociowebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F987A1AD-69A3-4D71-8233-88235722A144}|Negocio\\Negocio.csproj|c:\\users\\administrador\\desktop\\obligatoriop3\\negocio\\negocio\\valueobjects\\nombrecompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negocio.logicaaplicacion\\mappers\\usuariomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|solutionrelative:negocio.logicaaplicacion\\mappers\\usuariomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F987A1AD-69A3-4D71-8233-88235722A144}|Negocio\\Negocio.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negocio\\valueobjects\\nombrecompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F987A1AD-69A3-4D71-8233-88235722A144}|Negocio\\Negocio.csproj|solutionrelative:negocio\\valueobjects\\nombrecompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD954727-32C3-43E0-9EAF-487E1D9FE778}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\administrador\\desktop\\obligatoriop3\\negocio\\accesodatos\\migrations\\20250922010547_negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD954727-32C3-43E0-9EAF-487E1D9FE778}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\migrations\\20250922010547_negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F987A1AD-69A3-4D71-8233-88235722A144}|Negocio\\Negocio.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negocio\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F987A1AD-69A3-4D71-8233-88235722A144}|Negocio\\Negocio.csproj|solutionrelative:negocio\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD954727-32C3-43E0-9EAF-487E1D9FE778}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\accesodatos\\entityframework\\negociocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD954727-32C3-43E0-9EAF-487E1D9FE778}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\entityframework\\negociocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD954727-32C3-43E0-9EAF-487E1D9FE778}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\accesodatos\\entityframework\\repositorios\\repositoriotipogastoef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD954727-32C3-43E0-9EAF-487E1D9FE778}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\entityframework\\repositorios\\repositoriotipogastoef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negocio.logicaaplicacion\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|solutionrelative:negocio.logicaaplicacion\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Negocio/True/SqlTable/dbo.Usuarios.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Negocio/True/SqlTable/dbo.Equipo.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negociowebapp\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|solutionrelative:negociowebapp\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negociowebapp\\views\\tipogasto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|solutionrelative:negociowebapp\\views\\tipogasto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negociowebapp\\controllers\\tipogastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|solutionrelative:negociowebapp\\controllers\\tipogastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negocio.logicaaplicacion\\casosdeuso\\tipogastocu\\obtenertipogastoporidcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|solutionrelative:negocio.logicaaplicacion\\casosdeuso\\tipogastocu\\obtenertipogastoporidcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negocio.logicaaplicacion\\interfacesdecasosdeuso\\tipogasto\\iobtenertipogastoporid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|solutionrelative:negocio.logicaaplicacion\\interfacesdecasosdeuso\\tipogasto\\iobtenertipogastoporid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negocio.logicaaplicacion\\interfacesdecasosdeuso\\tipogasto\\ieditartipogasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|solutionrelative:negocio.logicaaplicacion\\interfacesdecasosdeuso\\tipogasto\\ieditartipogasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negocio.logicaaplicacion\\interfacesdecasosdeuso\\tipogasto\\iborrartipogasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|solutionrelative:negocio.logicaaplicacion\\interfacesdecasosdeuso\\tipogasto\\iborrartipogasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negociowebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|solutionrelative:negociowebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negocio.logicaaplicacion\\casosdeuso\\tipogastocu\\obtenertipogastocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|solutionrelative:negocio.logicaaplicacion\\casosdeuso\\tipogastocu\\obtenertipogastocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negocio.logicaaplicacion\\casosdeuso\\tipogastocu\\editartipogastocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|solutionrelative:negocio.logicaaplicacion\\casosdeuso\\tipogastocu\\editartipogastocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negocio.logicaaplicacion\\casosdeuso\\tipogastocu\\borrartipogastocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCADED2-4920-4348-A224-12816F0EB91A}|Negocio.LogicaAplicacion\\Negocio.LogicaAplicacion.csproj|solutionrelative:negocio.logicaaplicacion\\casosdeuso\\tipogastocu\\borrartipogastocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\negociowebapp\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E890F6C3-087C-4A97-8D8A-CEAE5B1438BF}|NegocioWebApp\\NegocioWebApp.csproj|solutionrelative:negociowebapp\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD954727-32C3-43E0-9EAF-487E1D9FE778}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\alumnofi\\desktop\\obligatori\\obligatorio-p3\\negocio\\accesodatos\\migrations\\20250922023005_initdbusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD954727-32C3-43E0-9EAF-487E1D9FE778}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\migrations\\20250922023005_initdbusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,7 +112,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,100 +120,230 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20250922023005_InitDBUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\AccesoDatos\\Migrations\\20250922023005_InitDBUsuario.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\Migrations\\20250922023005_InitDBUsuario.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\AccesoDatos\\Migrations\\20250922023005_InitDBUsuario.cs",
-              "RelativeToolTip": "AccesoDatos\\Migrations\\20250922023005_InitDBUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\NegocioWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NegocioWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\NegocioWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NegocioWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T12:45:05.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\NegocioWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NegocioWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\NegocioWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NegocioWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T02:30:05.138Z",
+              "WhenOpened": "2025-09-22T12:13:44.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\DTOs\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "Negocio.LogicaAplicacion\\DTOs\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\DTOs\\UsuarioDTO.cs",
+              "RelativeToolTip": "Negocio.LogicaAplicacion\\DTOs\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T11:22:13.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Negocio\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "Negocio\\Entidades\\Usuario.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T11:20:24.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.Usuarios [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Negocio/True/SqlTable/dbo.Usuarios.sql",
+              "ToolTip": "dbo.Usuarios [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-22T11:00:19.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "RepositorioTipoGastoEF.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\AccesoDatos\\EntityFramework\\Repositorios\\RepositorioTipoGastoEF.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\EntityFramework\\Repositorios\\RepositorioTipoGastoEF.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\AccesoDatos\\EntityFramework\\Repositorios\\RepositorioTipoGastoEF.cs",
-              "RelativeToolTip": "AccesoDatos\\EntityFramework\\Repositorios\\RepositorioTipoGastoEF.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAA9wC0AAAAJAAAAAAAAAA==",
+              "Title": "UsuarioMapper.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\Mappers\\UsuarioMapper.cs",
+              "RelativeDocumentMoniker": "Negocio.LogicaAplicacion\\Mappers\\UsuarioMapper.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\Mappers\\UsuarioMapper.cs",
+              "RelativeToolTip": "Negocio.LogicaAplicacion\\Mappers\\UsuarioMapper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T00:32:10.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\NegocioWebApp\\appsettings.json",
-              "RelativeDocumentMoniker": "NegocioWebApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\NegocioWebApp\\appsettings.json",
-              "RelativeToolTip": "NegocioWebApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-22T00:20:05.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EditarTipoGastoCU.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\EditarTipoGastoCU.cs",
-              "RelativeDocumentMoniker": "Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\EditarTipoGastoCU.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\EditarTipoGastoCU.cs",
-              "RelativeToolTip": "Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\EditarTipoGastoCU.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T00:53:26.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\NegocioWebApp\\Program.cs",
-              "RelativeDocumentMoniker": "NegocioWebApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\NegocioWebApp\\Program.cs",
-              "RelativeToolTip": "NegocioWebApp\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCIAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T00:20:38.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20250922010547_Negocio.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\AccesoDatos\\Migrations\\20250922010547_Negocio.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\Migrations\\20250922010547_Negocio.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\AccesoDatos\\Migrations\\20250922010547_Negocio.cs",
-              "RelativeToolTip": "AccesoDatos\\Migrations\\20250922010547_Negocio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T01:05:47.372Z"
+              "WhenOpened": "2025-09-22T11:22:46.12Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TipoGastoController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\NegocioWebApp\\Controllers\\TipoGastoController.cs",
-              "RelativeDocumentMoniker": "NegocioWebApp\\Controllers\\TipoGastoController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\NegocioWebApp\\Controllers\\TipoGastoController.cs",
-              "RelativeToolTip": "NegocioWebApp\\Controllers\\TipoGastoController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\NegocioWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "NegocioWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\NegocioWebApp\\Program.cs",
+              "RelativeToolTip": "NegocioWebApp\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowBQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T00:50:41.16Z"
+              "WhenOpened": "2025-09-22T00:20:38.711Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\NegocioWebApp\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "NegocioWebApp\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\NegocioWebApp\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "NegocioWebApp\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T11:27:03.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\NegocioWebApp\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "NegocioWebApp\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\NegocioWebApp\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "NegocioWebApp\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:50:17.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RepositorioTipoGastoEF.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\AccesoDatos\\EntityFramework\\Repositorios\\RepositorioTipoGastoEF.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\EntityFramework\\Repositorios\\RepositorioTipoGastoEF.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\AccesoDatos\\EntityFramework\\Repositorios\\RepositorioTipoGastoEF.cs",
+              "RelativeToolTip": "AccesoDatos\\EntityFramework\\Repositorios\\RepositorioTipoGastoEF.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowCMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T00:32:10.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NegocioContext.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\AccesoDatos\\EntityFramework\\NegocioContext.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\EntityFramework\\NegocioContext.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\AccesoDatos\\EntityFramework\\NegocioContext.cs",
+              "RelativeToolTip": "AccesoDatos\\EntityFramework\\NegocioContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T00:26:18.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Equipo [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Negocio/True/SqlTable/dbo.Equipo.sql",
+              "ToolTip": "dbo.Equipo [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-22T11:28:14.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\NegocioWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "NegocioWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\NegocioWebApp\\appsettings.json",
+              "RelativeToolTip": "NegocioWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-22T00:20:05.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NombreCompleto.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio\\ValueObjects\\NombreCompleto.cs",
+              "RelativeDocumentMoniker": "Negocio\\ValueObjects\\NombreCompleto.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio\\ValueObjects\\NombreCompleto.cs",
+              "RelativeToolTip": "Negocio\\ValueObjects\\NombreCompleto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T16:32:42.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EditarTipoGastoCU.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\EditarTipoGastoCU.cs",
+              "RelativeDocumentMoniker": "Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\EditarTipoGastoCU.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\EditarTipoGastoCU.cs",
+              "RelativeToolTip": "Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\EditarTipoGastoCU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T00:53:26.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TipoGastoController.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\NegocioWebApp\\Controllers\\TipoGastoController.cs",
+              "RelativeDocumentMoniker": "NegocioWebApp\\Controllers\\TipoGastoController.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\NegocioWebApp\\Controllers\\TipoGastoController.cs",
+              "RelativeToolTip": "NegocioWebApp\\Controllers\\TipoGastoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:50:41.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PagoController.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\NegocioWebApp\\Controllers\\PagoController.cs",
+              "RelativeDocumentMoniker": "NegocioWebApp\\Controllers\\PagoController.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\NegocioWebApp\\Controllers\\PagoController.cs",
+              "RelativeToolTip": "NegocioWebApp\\Controllers\\PagoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:49:49.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\NegocioWebApp\\Views\\TipoGasto\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\NegocioWebApp\\Views\\TipoGasto\\Create.cshtml",
               "RelativeDocumentMoniker": "NegocioWebApp\\Views\\TipoGasto\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\NegocioWebApp\\Views\\TipoGasto\\Create.cshtml",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\NegocioWebApp\\Views\\TipoGasto\\Create.cshtml",
               "RelativeToolTip": "NegocioWebApp\\Views\\TipoGasto\\Create.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -196,136 +352,107 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NegocioContext.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\AccesoDatos\\EntityFramework\\NegocioContext.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\EntityFramework\\NegocioContext.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\AccesoDatos\\EntityFramework\\NegocioContext.cs",
-              "RelativeToolTip": "AccesoDatos\\EntityFramework\\NegocioContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "20250922023005_InitDBUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\AccesoDatos\\Migrations\\20250922023005_InitDBUsuario.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Migrations\\20250922023005_InitDBUsuario.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\AccesoDatos\\Migrations\\20250922023005_InitDBUsuario.cs",
+              "RelativeToolTip": "AccesoDatos\\Migrations\\20250922023005_InitDBUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T00:26:18.514Z",
+              "WhenOpened": "2025-09-22T02:30:05.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "IObtenerTipoGastoPorId.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IObtenerTipoGastoPorId.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IObtenerTipoGastoPorId.cs",
               "RelativeDocumentMoniker": "Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IObtenerTipoGastoPorId.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IObtenerTipoGastoPorId.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IObtenerTipoGastoPorId.cs",
               "RelativeToolTip": "Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IObtenerTipoGastoPorId.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T01:19:39.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ObtenerTipoGastoPorIdCU.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\ObtenerTipoGastoPorIdCU.cs",
-              "RelativeDocumentMoniker": "Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\ObtenerTipoGastoPorIdCU.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\ObtenerTipoGastoPorIdCU.cs",
-              "RelativeToolTip": "Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\ObtenerTipoGastoPorIdCU.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T01:22:32.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IEditarTipoGasto.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IEditarTipoGasto.cs",
-              "RelativeDocumentMoniker": "Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IEditarTipoGasto.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IEditarTipoGasto.cs",
-              "RelativeToolTip": "Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IEditarTipoGasto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T00:52:29.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IBorrarTipoGasto.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IBorrarTipoGasto.cs",
-              "RelativeDocumentMoniker": "Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IBorrarTipoGasto.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IBorrarTipoGasto.cs",
-              "RelativeToolTip": "Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IBorrarTipoGasto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T00:44:56.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ObtenerTipoGastoCU.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\ObtenerTipoGastoCU.cs",
-              "RelativeDocumentMoniker": "Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\ObtenerTipoGastoCU.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\ObtenerTipoGastoCU.cs",
-              "RelativeToolTip": "Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\ObtenerTipoGastoCU.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAMwB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T00:32:52.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BorrarTipoGastoCU.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\BorrarTipoGastoCU.cs",
-              "RelativeDocumentMoniker": "Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\BorrarTipoGastoCU.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\BorrarTipoGastoCU.cs",
-              "RelativeToolTip": "Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\BorrarTipoGastoCU.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T00:47:23.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EquipoController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\NegocioWebApp\\Controllers\\EquipoController.cs",
-              "RelativeDocumentMoniker": "NegocioWebApp\\Controllers\\EquipoController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\NegocioWebApp\\Controllers\\EquipoController.cs",
-              "RelativeToolTip": "NegocioWebApp\\Controllers\\EquipoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T00:50:54.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\NegocioWebApp\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "NegocioWebApp\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\NegocioWebApp\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "NegocioWebApp\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T00:50:17.943Z"
+              "WhenOpened": "2025-09-22T01:19:39.661Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "PagoController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\NegocioWebApp\\Controllers\\PagoController.cs",
-              "RelativeDocumentMoniker": "NegocioWebApp\\Controllers\\PagoController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\NegocioWebApp\\Controllers\\PagoController.cs",
-              "RelativeToolTip": "NegocioWebApp\\Controllers\\PagoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ObtenerTipoGastoPorIdCU.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\ObtenerTipoGastoPorIdCU.cs",
+              "RelativeDocumentMoniker": "Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\ObtenerTipoGastoPorIdCU.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\ObtenerTipoGastoPorIdCU.cs",
+              "RelativeToolTip": "Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\ObtenerTipoGastoPorIdCU.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T00:49:49.337Z"
+              "WhenOpened": "2025-09-22T01:22:32.089Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "NombreCompleto.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio\\ValueObjects\\NombreCompleto.cs",
-              "RelativeDocumentMoniker": "Negocio\\ValueObjects\\NombreCompleto.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\obligatorioP3\\Negocio\\Negocio\\ValueObjects\\NombreCompleto.cs",
-              "RelativeToolTip": "Negocio\\ValueObjects\\NombreCompleto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "IEditarTipoGasto.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IEditarTipoGasto.cs",
+              "RelativeDocumentMoniker": "Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IEditarTipoGasto.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IEditarTipoGasto.cs",
+              "RelativeToolTip": "Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IEditarTipoGasto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T16:32:42.566Z"
+              "WhenOpened": "2025-09-22T00:52:29.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBorrarTipoGasto.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IBorrarTipoGasto.cs",
+              "RelativeDocumentMoniker": "Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IBorrarTipoGasto.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IBorrarTipoGasto.cs",
+              "RelativeToolTip": "Negocio.LogicaAplicacion\\InterfacesDeCasosDeUso\\TipoGasto\\IBorrarTipoGasto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T00:44:56.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ObtenerTipoGastoCU.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\ObtenerTipoGastoCU.cs",
+              "RelativeDocumentMoniker": "Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\ObtenerTipoGastoCU.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\ObtenerTipoGastoCU.cs",
+              "RelativeToolTip": "Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\ObtenerTipoGastoCU.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T00:32:52.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BorrarTipoGastoCU.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\BorrarTipoGastoCU.cs",
+              "RelativeDocumentMoniker": "Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\BorrarTipoGastoCU.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\BorrarTipoGastoCU.cs",
+              "RelativeToolTip": "Negocio.LogicaAplicacion\\CasosDeUso\\TipoGastoCU\\BorrarTipoGastoCU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T00:47:23.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EquipoController.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\NegocioWebApp\\Controllers\\EquipoController.cs",
+              "RelativeDocumentMoniker": "NegocioWebApp\\Controllers\\EquipoController.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\obligatori\\obligatorio-p3\\Negocio\\NegocioWebApp\\Controllers\\EquipoController.cs",
+              "RelativeToolTip": "NegocioWebApp\\Controllers\\EquipoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:50:54.887Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -15,7 +15,7 @@ namespace Negocio.LogicaAplicacion.DTOs
         public string Apellido {  get; set; }
         public string Contrasena { get; set; }
         public string Email { get; set; }
-        public Equipo Equipo {  get; set; }
+        public int EquipoId {  get; set; }
         public Rol Rol {  get; set; }
     }
 }

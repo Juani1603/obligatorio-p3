@@ -18,7 +18,7 @@ namespace Negocio.LogicaAplicacion.Mappers
                 NombreCompleto = new ValueObjects.NombreCompleto(dto.Nombre, dto.Apellido),
                 Contrasena = dto.Contrasena,
                 Email = new ValueObjects.Email(dto.Email),
-                Equipo = dto.Equipo,
+                EquipoId = dto.EquipoId,
                 Rol = dto.Rol,
             };
         }
@@ -31,7 +31,7 @@ namespace Negocio.LogicaAplicacion.Mappers
                 Apellido = usuario.NombreCompleto.Apellido,
                 Contrasena = usuario.Contrasena,
                 Email = usuario.Email.Correo,
-                Equipo = usuario.Equipo,
+                EquipoId = usuario.EquipoId,
                 Rol = usuario.Rol,
             };
         }
