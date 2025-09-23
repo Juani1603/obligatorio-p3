@@ -2,6 +2,7 @@
 using Negocio.Exceptions;
 using Negocio.LogicaAplicacion.DTOs;
 using Negocio.LogicaAplicacion.InterfacesDeCasosDeUso.Usuario;
+using NegocioWebApp.Filters;
 
 namespace NegocioWebApp.Controllers
 {
@@ -14,7 +15,7 @@ namespace NegocioWebApp.Controllers
 
         }
 
-        //[FilterAutenticado]
+        [FiltroAutenticado]
         public IActionResult Index()
         {
             return View();

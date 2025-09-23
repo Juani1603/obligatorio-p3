@@ -46,7 +46,16 @@ namespace AccesoDatos.EntityFramework.Repositorios
 
         public Usuario FindById(int id)
         {
-            throw new NotImplementedException();
+            Usuario usuario = _context.Usuarios.Where(
+               user => user.Id == id
+           ).FirstOrDefault();
+
+            if (usuario == null)
+            {
+                throw new UsuarioException("No se encontró el Id de ese usuario.");
+            }
+
+            return usuario;
         }
 
         public void Remove(int id)

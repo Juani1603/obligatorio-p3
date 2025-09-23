@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Negocio.LogicaAplicacion.DTOs;
 using Negocio.LogicaAplicacion.InterfacesDeCasosDeUso.TipoGasto;
+using NegocioWebApp.Filters;
 
 namespace NegocioWebApp.Controllers
 {
@@ -28,18 +29,21 @@ namespace NegocioWebApp.Controllers
         }
 
         // GET: TipoGastoController
+        [FiltroRolAdministrador]
         public ActionResult Index()
         {
             return View(_obtenerTipoGastos.ObtenerTipoGastos());
         }
 
         // GET: TipoGastoController/Details/5
+        [FiltroRolAdministrador]
         public ActionResult Details(int id)
         {
             return View(_obtenerTipoGastoPorId.BuscarTipoGastoPorId(id));
         }
 
         // GET: TipoGastoController/Create
+        [FiltroRolAdministrador]
         public ActionResult Create()
         {
             return View();
@@ -62,6 +66,7 @@ namespace NegocioWebApp.Controllers
         }
 
         // GET: TipoGastoController/Edit/5
+        [FiltroRolAdministrador]
         public ActionResult Edit(int id)
         {
             return View(_obtenerTipoGastoPorId.BuscarTipoGastoPorId(id));
@@ -84,6 +89,7 @@ namespace NegocioWebApp.Controllers
         }
 
         // GET: TipoGastoController/Delete/5
+        [FiltroRolAdministrador]
         public ActionResult Delete(int id)
         {
             return View(_obtenerTipoGastoPorId.BuscarTipoGastoPorId(id));

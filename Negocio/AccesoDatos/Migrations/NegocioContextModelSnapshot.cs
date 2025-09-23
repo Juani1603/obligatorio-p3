@@ -21,23 +21,6 @@ namespace AccesoDatos.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("Negocio.Entidades.Equipo", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Nombre")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Equipo");
-                });
-
             modelBuilder.Entity("Negocio.Entidades.TipoGasto", b =>
                 {
                     b.Property<int>("Id")
@@ -79,19 +62,11 @@ namespace AccesoDatos.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("EquipoId");
-
                     b.ToTable("Usuarios");
                 });
 
             modelBuilder.Entity("Negocio.Entidades.Usuario", b =>
                 {
-                    b.HasOne("Negocio.Entidades.Equipo", "Equipo")
-                        .WithMany()
-                        .HasForeignKey("EquipoId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.OwnsOne("Negocio.ValueObjects.Email", "Email", b1 =>
                         {
                             b1.Property<int>("UsuarioId")
@@ -132,8 +107,6 @@ namespace AccesoDatos.Migrations
 
                     b.Navigation("Email")
                         .IsRequired();
-
-                    b.Navigation("Equipo");
 
                     b.Navigation("NombreCompleto")
                         .IsRequired();
